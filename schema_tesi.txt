@@ -1,0 +1,33 @@
+Schema tesi
+
+
+
+Introduzione: tesi sulle key technoloies per una turbina a gas ad alto TIT, summary di tutto. Una tesi che descrive brevemente i problemi, va bene anche il libro penso.
+
+Parte 1: lega che costituisce le palette, tesi summary mga1700
+	-tesi sul design delle ni based alloy
+	-tesi sull'evoluzione
+	-tesi summary mga 1700 sulle caratteristiche principali di questa lega. Purtroppo non c'è il brevetto.
+	
+Parte 2: come viene prodotta questa lega sempre tesi summary mga
+	-tesi summary mga 1700
+	-
+	
+	
+Introduzione: Highest Tit turbines
+	-brevissima introduzione teorica del perchè è utile
+	-introdurre i problemi principali legati alla alta Tit, far riferimento un poco al libro
+	-overview sulle key technologies per avere una turbina a gas ad alto TIT (J-series Mitsubishi). Ricerca:Mitsubishi
+	
+Di tutte le tecnologie mi soffermo soltanto sulla lega di cui è costituita la paletta e la descrizione del processo di fusione facendo riferimento come esempio alle key 
+della J-series della mitsubis
+	
+	
+Parte 1: Superleghe a base di nichel
+	-design delle superleghe monocristalline Ni-based
+	-evoluzione nel tempo delle superleghe
+
+Parte 2: manufacturing process 
+	-tecniche per il controllo dell'orientazione dei grani: grain selection e melted seed. Per ottenere un monocristallino con l'orientazione che voglio io.
+	-tecniche per la simulazione del processo e l'eventuale formazione di difetti (modello matematico per la simulazione della formazione deo canali di segregazione)
+	-Additive manufacturing come tecnica alternativa per produrre le palette da 0 o soltanto come mezzo per ripararle.
