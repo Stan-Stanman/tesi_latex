@@ -1,0 +1,12 @@
+Kazemiani‑Najafabadi P., Amiri Rad E. (2021) Introducing an optimum gas turbine inlet temperature (TIT) based on a 4E analysis: a case study of northeastern Iran, Journal of Thermal Analysis and Calorimetry, 146: 403–413
+
+Ishizaka K., Ito E., Masada J., Saitoh K., Yuri M. (2017) Key Technologies for 1700℃ Class Ultra High Temperature Gas Turbine, Mitsubishi Heavy Industries Technical Review, 54(3): 23-32
+
+Xia W., Zhao X., Yue L., Zhang Z. (2020) A review of composition evolution in Ni-based single crystal superalloys, Journal of Materials Science & Technology, 44: 76-95
+
+Fujiwara K., Oguma H., Taneike M., Okada I., Kawagishi K., Yokokawa T., Harada H. (2019) Simulation Analysis Techniques for Investment Casting Process of Ni-Base Superalloy Components. In: Tiryakioğlu, M., Griffiths, W., Jolly, M. (eds) Shape Casting. The Minerals, Metals & Materials Series. Springer, Cham, 253-262
+
+Gabrielli F., Ippolito R., Micari F. (2008) Analisi e tecnologia delle lavorazioni meccaniche, The McGraw-Hill Companies, 1-465
+
+Yang X.L., Lee P.D., D'Souza N. (2005) Stray grain formation in the seed region of single-crystal turbine blades, JOM, 57: 40-44
+
